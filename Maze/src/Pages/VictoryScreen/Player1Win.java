@@ -7,9 +7,7 @@ import javax.sound.sampled.Clip;
 import static Core.GameUtils.playMusic;
 import java.awt.Color;
 
-/**
- * @author power
- */
+
 public class Player1Win extends javax.swing.JFrame {
 
     static Clip voice;

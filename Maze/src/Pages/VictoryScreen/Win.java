@@ -15,10 +15,7 @@ import static Core.GameUtils.playMusic;
 
 import java.awt.Color;
 
-/**
- *
- * @author power
- */
+
 public class Win extends javax.swing.JFrame {
     static Clip voice;
     boolean isSingle = true;
